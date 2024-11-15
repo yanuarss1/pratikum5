@@ -12,9 +12,11 @@ Program ini dibuat menggunakan bahasa python dengan fitur:
 - append() dan break untuk menambah data ke list dan menghentikan perulangan.
 - print() dan F-string untuk mencetak hasil dalam bentuk tabel yang terformat.
 ## Flowchart Programan
-<img width="421" alt="FLOWCHART" src="https://github.com/user-attachments/assets/eada5aa5-ed07-45c6-8377-161e3acce2a9">
+
 
 # Kode Program
+<img width="331" alt="OUTPUT" src="https://github.com/user-attachments/assets/d9450bfd-c22b-41b8-91f7-9933ed1cea05">
+
 ```python
 # Inisialisasi list untuk menyimpan data
 data_mahasiswa = []
