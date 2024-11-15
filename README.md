@@ -13,6 +13,7 @@ Program ini dibuat menggunakan bahasa python dengan fitur:
 - print() dan F-string untuk mencetak hasil dalam bentuk tabel yang terformat.
 ## Flowchart Programan
 <img width="421" alt="FLOWCHART" src="https://github.com/user-attachments/assets/eada5aa5-ed07-45c6-8377-161e3acce2a9">
+
 # Kode Program
 ```python
 # Inisialisasi list untuk menyimpan data
@@ -54,13 +55,7 @@ for i, mhs in enumerate(data_mahasiswa, start=1):
 
 ```
 # Output Program
-```
-| No | Nama     | NIM   | Tugas | UTS | UAS | Akhir |
---------------------------------------------------
-| 1  | Yanto     | 312410056 | 100   | 60  | 98  | 97.55 |
-| 2  | Budi      | 312410085 | 90    | 80  | 99  | 95.95 |
-| 3  | Agus      | 312410160 | 90    | 75  | 100 | 96.3  |
-| 4  | Slamet    | 312410110 | 98    | 80  | 90  | 94.15 |
+
 ```
 # Cara Kerja Program
 1. Program pertama kali menginisialisasi list kosong bernama data_mahasiswa untuk menyimpan data setiap mahasiswa.
@@ -126,12 +121,8 @@ for i, mhs in enumerate(data_mahasiswa, start=1):
 ```
 # Output Program
 ```
-| No | Nama     | NIM   | Tugas | UTS | UAS | Akhir |
---------------------------------------------------
-| 1  | Yanto     | 312410056 | 100   | 60  | 98  | 97.55 |
-| 2  | Budi    | 312410085 | 90    | 80  | 99  | 95.95 |
-| 3  | Agus   | 312410160 | 90    | 75  | 100 | 96.3  |
-| 4  | Slamet    | 312410110 | 98    | 80  | 90  | 94.15 |
+<img width="331" alt="OUTPUT" src="https://github.com/user-attachments/assets/84975b3f-7bae-4567-b332-cb1c21bdc30a">
+
 ```
 # Cara Kerja Program
 1. Program pertama kali menginisialisasi list kosong bernama data_mahasiswa untuk menyimpan data setiap mahasiswa.
