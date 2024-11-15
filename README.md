@@ -1,5 +1,6 @@
 # pratikum5
-
+# DWI YANUAR PRASETIA
+# 312410107
 # Program Menghitung Data Nilai Akhir Mahasiswa
 Program ini merupakan berbasis list yang digunakan untuk menyimpan dan menghitung nilai akhir mahasiswa. 
 Nilai akhir dihitung berdasarkan bobot tertentu dari nilai tugas, UTS, dan UAS.
@@ -13,9 +14,10 @@ Program ini dibuat menggunakan bahasa python dengan fitur:
 - print() dan F-string untuk mencetak hasil dalam bentuk tabel yang terformat.
 ## Flowchart Programan
 
+<img width="421" alt="FLOWCHART" src="https://github.com/user-attachments/assets/23446b05-0ed1-4457-8b46-c5c9204c1318">
 
 # Kode Program
-<img width="331" alt="OUTPUT" src="https://github.com/user-attachments/assets/d9450bfd-c22b-41b8-91f7-9933ed1cea05">
+
 
 ```python
 # Inisialisasi list untuk menyimpan data
@@ -122,10 +124,9 @@ for i, mhs in enumerate(data_mahasiswa, start=1):
 
 ```
 # Output Program
-```
-<img width="331" alt="OUTPUT" src="https://github.com/user-attachments/assets/84975b3f-7bae-4567-b332-cb1c21bdc30a">
 
-```
+<img width="331" alt="OUTPUT" src="https://github.com/user-attachments/assets/f7b65e4c-d690-469b-81f2-d9b079520443">
+
 # Cara Kerja Program
 1. Program pertama kali menginisialisasi list kosong bernama data_mahasiswa untuk menyimpan data setiap mahasiswa.
 2. Fungsi hitung_nilai_akhir digunakan untuk menghitung nilai akhir berdasarkan formula:
