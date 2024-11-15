@@ -12,7 +12,7 @@ Program ini dibuat menggunakan bahasa python dengan fitur:
 - append() dan break untuk menambah data ke list dan menghentikan perulangan.
 - print() dan F-string untuk mencetak hasil dalam bentuk tabel yang terformat.
 ## Flowchart Programan
-![Flowchart](https://github.com/Dwiokta10/Praktikum5/blob/main/flowchartprak5.png)
+<img width="421" alt="FLOWCHART" src="https://github.com/user-attachments/assets/eada5aa5-ed07-45c6-8377-161e3acce2a9">
 # Kode Program
 ```python
 # Inisialisasi list untuk menyimpan data
